@@ -1,4 +1,4 @@
-# datastructures
+# Datastructures
 Datastructures in Javascript, Python and C++
 
 
